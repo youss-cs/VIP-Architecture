@@ -1,0 +1,186 @@
+{
+    "operations": [
+                   {
+                   "currencyCode": 200,
+                   "operationDate": "2018-02-13T00:00:00.000Z",
+                   "valueDate": "2018-02-13T00:00:00.000Z",
+                   "amount": -200,
+                   "libelle": "Paiment SHELL D-AL JAZEERA"
+                   },
+                   {
+                   "currencyCode": 290,
+                   "operationDate": "2018-02-13T00:00:00.000Z",
+                   "valueDate": "2018-02-13T00:00:00.000Z",
+                   "amount": -1000,
+                   "libelle": "Retrait GAUTHIER"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-12T00:00:00.000Z",
+                   "valueDate": "2018-02-12T00:00:00.000Z",
+                   "amount": -300,
+                   "libelle": "Retrait GAUTHIER"
+                   },
+                   {
+                   "currencyCode": 200,
+                   "operationDate": "2018-02-11T00:00:00.000Z",
+                   "valueDate": "2018-02-11T00:00:00.000Z",
+                   "amount": -300,
+                   "libelle": "Retrait KITEA RABAT"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-11T00:00:00.000Z",
+                   "valueDate": "2018-02-11T00:00:00.000Z",
+                   "amount": -97.85,
+                   "libelle": "Paiment ASWAK ASSALAM KENITR"
+                   },
+                   {
+                   "currencyCode": 290,
+                   "operationDate": "2018-02-11T00:00:00.000Z",
+                   "valueDate": "2018-02-11T00:00:00.000Z",
+                   "amount": -16,
+                   "libelle": "Paiment ONCF DAT RABAT AGDAL"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-10T00:00:00.000Z",
+                   "valueDate": "2018-02-10T00:00:00.000Z",
+                   "amount": -500,
+                   "libelle": "Retrait TEMARA WIFAK EX"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-10T00:00:00.000Z",
+                   "valueDate": "2018-02-10T00:00:00.000Z",
+                   "amount": -134,
+                   "libelle": "Paiment DECATHLON RABAT"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-10T00:00:00.000Z",
+                   "valueDate": "2018-02-10T00:00:00.000Z",
+                   "amount": -300,
+                   "libelle": "Retrait TEMARA WIFAK EX"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-10T00:00:00.000Z",
+                   "valueDate": "2018-02-10T00:00:00.000Z",
+                   "amount": -3600,
+                   "libelle": "Retrait RABAT RYAD AL A"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-09T00:00:00.000Z",
+                   "valueDate": "2018-02-09T00:00:00.000Z",
+                   "amount": -500,
+                   "libelle": "Retrait CASA AVENUE TAN"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-07T00:00:00.000Z",
+                   "valueDate": "2018-02-07T00:00:00.000Z",
+                   "amount": -200,
+                   "libelle": "Paiment AFRQ D-ALBOUSTANE"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-06T00:00:00.000Z",
+                   "valueDate": "2018-02-06T00:00:00.000Z",
+                   "amount": -700,
+                   "libelle": "Retrait GAUTHIER"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-06T00:00:00.000Z",
+                   "valueDate": "2018-02-06T00:00:00.000Z",
+                   "amount": -600,
+                   "libelle": "Retrait SGMB CASABLANCA"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-05T00:00:00.000Z",
+                   "valueDate": "2018-02-05T00:00:00.000Z",
+                   "amount": -47,
+                   "libelle": "Paiment GFFS BK EXIT CASA"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-05T00:00:00.000Z",
+                   "valueDate": "2018-02-05T00:00:00.000Z",
+                   "amount": -100,
+                   "libelle": "Paiment SHELL EXIT CASA"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-04T00:00:00.000Z",
+                   "valueDate": "2018-02-04T00:00:00.000Z",
+                   "amount": -315.3,
+                   "libelle": "Paiment MARJANE HAY RIAD G"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-04T00:00:00.000Z",
+                   "valueDate": "2018-02-04T00:00:00.000Z",
+                   "amount": -3000,
+                   "libelle": "Retrait SAFI SAHAT AL I"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-01T00:00:00.000Z",
+                   "valueDate": "2018-02-01T00:00:00.000Z",
+                   "amount": -3500,
+                   "libelle": "Retrait TEMARA WIFAK EX"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-01T00:00:00.000Z",
+                   "valueDate": "2018-02-01T00:00:00.000Z",
+                   "amount": -450,
+                   "libelle": "Paiment AFRIQ ACIMA TEMARA"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-02-01T00:00:00.000Z",
+                   "valueDate": "2018-02-01T00:00:00.000Z",
+                   "amount": -64,
+                   "libelle": "Paiment MCDONALD S B2P TEMAR"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-01-31T00:00:00.000Z",
+                   "valueDate": "2018-01-31T00:00:00.000Z",
+                   "amount": -2000,
+                   "libelle": "Retrait TEMARA WIFAK EX"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-01-31T00:00:00.000Z",
+                   "valueDate": "2018-01-31T00:00:00.000Z",
+                   "amount": -450,
+                   "libelle": "Paiment SHELL I-RASIMA"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-01-30T00:00:00.000Z",
+                   "valueDate": "2018-01-30T00:00:00.000Z",
+                   "amount": -1500,
+                   "libelle": "Retrait CASA MUSTAPHA M"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-01-30T00:00:00.000Z",
+                   "valueDate": "2018-01-30T00:00:00.000Z",
+                   "amount": -200,
+                   "libelle": "Paiment AFRQ D-ALBOUSTANE"
+                   },
+                   {
+                   "currencyCode": 0,
+                   "operationDate": "2018-01-28T00:00:00.000Z",
+                   "valueDate": "2018-01-28T00:00:00.000Z",
+                   "amount": -167,
+                   "libelle": "Paiment DEFACTO KENITRA"
+                   }
+                   ]
+}
